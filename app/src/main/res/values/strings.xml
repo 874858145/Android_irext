@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android_irext</string>
+    <string name="ssid_title">wifi名称: </string>
+    <string name="bssid_title">Mac地址: </string>
+    <string name="password_title">wifi密码: </string>
+    <string name="device_count_title">设备数量: </string>
+    <string name="package_broadcast">广播</string>
+    <string name="package_multicast">组播</string>
+    <string name="confirm">连接</string>
+    <string name="espconfigure">配置</string>
+    <string name="next">Next</string>
+    <string name="wifi_5g_message">Device don\'t support 5G Wifi, please make sure the currently connected Wifi is 2.4G</string>
+    <string name="location_disable_message">Location(GPS) is disable</string>
+    <string name="version">Version: %s</string>
+</resources>
